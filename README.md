@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maged-atef](https://github.com/maged-atef)
+- 👨‍💻 All of my projects are available at [https://github.com/maged-atef](https://github.com/mrgreen_Z)
 
 - 💬 Ask me about **react**
 
