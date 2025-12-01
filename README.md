@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mr.Green </h1>
+<h1 align="center">Hi 👋, I'm zHandler </h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 🌱 I’m currently learning **Data Analysis , Python**
