@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Data Analysis , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrgreen-Z](https://github.com/mrgreen-Z)
+- 👨‍💻 All of my projects are available at [https://github.com/mrgreen-Z](https://github.com/zHandler)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **mrgreen_Z@outlook.com**
+- 📫 How to reach me **zHandler10@gmail.com**
 
 - ⚡ Fun fact **Nothing Real if You Blind to See**
 
